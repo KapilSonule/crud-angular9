@@ -1,0 +1,11 @@
+.student__form {
+  margin-top: 10px;
+}
+
+.student__form__content {
+  margin-top: 5px;
+}
+
+.student__form > button {
+  margin-top: 5px;
+}
